@@ -8,7 +8,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-    background-image: url(../assets/background.png);
+    background-image: url('https://raw.githubusercontent.com/canzalo/cryptoweb/f24031fc6a338716d63236fbfb351d538d536a69/assets/background.png');
     background-size: cover;
     background-position: center;
     padding: 0 7%;
