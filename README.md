@@ -9,4 +9,5 @@
  <h3> What the website does..</h3>
   <ul>
  <li>This website shows the prices of the crypto currencies in realtime (in usd).</li>
+ <li>#bitcoin #ethereum #dogecoin </li>
  </ul>
